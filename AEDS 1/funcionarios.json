@@ -1,0 +1,9 @@
+[
+    {
+        "nome": "Maria",
+        "codigo": "FN-001",
+        "telefone": "87654321",
+        "salario": 2000.0,
+        "cargo": "Recepcionista"
+    }
+]
