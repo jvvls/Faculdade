@@ -11,7 +11,7 @@ public class ex3 {
     	
         Set<Integer> set = new HashSet<>();
         
-        for (int matricula : matriculaProgramacao) {
+        for (int matricula : matriculaProgramacao){ {
         	set.add(matricula);
         }
         
