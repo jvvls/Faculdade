@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\famil\OneDrive\Documentos\vscode\Faculdade\pratica-01-classes-e-objetos-jvvls\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+412232450.index
+3634183783.index
+3815881377.index

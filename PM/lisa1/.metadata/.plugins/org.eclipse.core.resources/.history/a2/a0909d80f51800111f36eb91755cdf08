@@ -1,0 +1,26 @@
+package triangulo;
+import java.math.*;
+
+public class triangulo {
+	
+	class TrianguloRetangulo {
+
+	    private double c1;
+	    private double c2;
+	    private double h;
+
+	    public TrianguloRetangulo(double c1, double c2) {
+	        this.c1 = c1;
+	        this.c2 = c2;
+	        this.h = calculaHipotenusa();
+	    }
+
+	    public double calculaHipotenusa() {
+	        return Math.sqrt(Math.pow(c1, 2) + Math.pow(c2, 2));
+	    }
+
+	    public double calculaArea() {
+	        return (c1 * c2) / 2;
+	    }
+	}
+}
